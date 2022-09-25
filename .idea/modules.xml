@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../contol statement/.idea/Contol Statement.iml" filepath="$PROJECT_DIR$/../../../../contol statement/.idea/Contol Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../DataType/.idea/DataType.iml" filepath="$PROJECT_DIR$/../../../../DataType/.idea/DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Loop/.idea/Loop.iml" filepath="$PROJECT_DIR$/../../../../Loop/.idea/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonInternship.iml" filepath="$PROJECT_DIR$/.idea/PythonInternship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../function/.idea/function.iml" filepath="$PROJECT_DIR$/../../../../function/.idea/function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../numpy/.idea/numpy.iml" filepath="$PROJECT_DIR$/../../../../numpy/.idea/numpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../panda/.idea/panda.iml" filepath="$PROJECT_DIR$/../../../../panda/.idea/panda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../practicals/.idea/practicals.iml" filepath="$PROJECT_DIR$/../../../../practicals/.idea/practicals.iml" />
+    </modules>
+  </component>
+</project>

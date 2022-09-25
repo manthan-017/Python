@@ -1,0 +1,20 @@
+t1 = (19,45,80.99)
+print(t1)
+print(type(t1))
+print(len(t1))
+print(t1.index(19))
+l1 = list(t1)
+print(type(l1))
+l1.append(80)
+print(l1)
+l1.append(87)
+print(l1)
+l1.sort()
+print(l1)
+n = 19
+if n in l1:
+    print(l1.index(n))
+else:
+    print(-1)
+t1 = tuple(l1)
+print(type(t1))
